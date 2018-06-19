@@ -75,7 +75,7 @@
 	<snapshotRepository>
 		<id>deploymentRepo</id>
 		<name>Internal Releases</name>
-		<url>http:/http://35.237.20.196:8081/repository/deploy/</url>
+		<url>http://35.237.20.196:8081/repository/snapshot/</url>
 	</snapshotRepository>
 </distributionManagement>
 
