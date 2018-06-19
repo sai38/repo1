@@ -67,7 +67,7 @@
 	</build>
 <distributionManagement>
 	<repository>
-		<id>deploymentRepo</id>
+		<id>1</id>
 		<name>deploy</name>
 		<url>http://35.237.20.196:8081/repository/deploy/</url>
 	</repository>
